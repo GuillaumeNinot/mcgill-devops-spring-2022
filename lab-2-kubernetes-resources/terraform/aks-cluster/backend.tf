@@ -6,5 +6,4 @@ terraform {
     key                  = "lab-2-aks-cluster.tfstate"
   }
 }
-
-
+# Destroying the cluster
